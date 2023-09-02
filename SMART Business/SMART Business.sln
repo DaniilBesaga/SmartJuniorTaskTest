@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMART Business", "SMART Business\SMART Business.csproj", "{7035C17E-B3D0-4F62-9CB2-903B0E8B12B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7035C17E-B3D0-4F62-9CB2-903B0E8B12B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7035C17E-B3D0-4F62-9CB2-903B0E8B12B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7035C17E-B3D0-4F62-9CB2-903B0E8B12B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7035C17E-B3D0-4F62-9CB2-903B0E8B12B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51D73D58-6508-4F56-93B6-2C0FE75F9366}
+	EndGlobalSection
+EndGlobal
